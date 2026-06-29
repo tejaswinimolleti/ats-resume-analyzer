@@ -1,2 +1,0 @@
-New-Item -ItemType Directory -Force .streamlit
-code .streamlit/config.toml
